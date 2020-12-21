@@ -1,5 +1,5 @@
 # Locality sensitive hashing
-> Application of finding plagiarized documents.
+> Application: Finding plagiarized documents
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Generic badge](https://img.shields.io/badge/Written%20in-Python-green.svg)](https://shields.io/)
